@@ -3,7 +3,7 @@
     <v-row align="center" justify="center">
       <v-col cols="12" md="8" lg="6" class="text-center">
         <h1 class="title">{{ task?.title }}</h1>
-        <p class="description">{{ task?.description }}</p>
+        <p class="description">{{ task?.descripiton }}</p>
       </v-col>
     </v-row>
   </v-container>

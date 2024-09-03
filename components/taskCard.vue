@@ -4,7 +4,7 @@
       {{ task.title }}
     </v-card-title>
     <v-card-subtitle>
-      {{ task.description }}
+      {{ task.descripiton }}
     </v-card-subtitle>
 
   </v-card>
