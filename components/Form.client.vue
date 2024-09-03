@@ -73,6 +73,7 @@ export default {
         console.error("Something went wrong", e);
       }finally{
         this.$refs.form.resetValidation(); 
+        this.$router.push('/');
       }
     }
   }
